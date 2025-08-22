@@ -1,4 +1,5 @@
 # Cross section/Mesh slicing shader
+![image](Images/gif1.gif)
 
 ## How to install
  - Copy `Assets/Cross Section Shader` folder into your unity project
@@ -9,6 +10,8 @@ To use this shader, you need to create a material that uses this shader. You als
 
 > [!TIP]
 > Check out the `Example Scene` for an example of how to use it.
+
+![image](Images/gif2.gif)
 
 ## Features
 1) Binary partitioning using single plane
